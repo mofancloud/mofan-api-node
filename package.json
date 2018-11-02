@@ -1,0 +1,19 @@
+{
+  "name": "x-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "iconv-lite": "^0.4.24",
+    "lodash": "^3.1.0",
+    "moment": "^2.16.0",
+    "qs": "^2.4.1",
+    "sha256": "^0.2.0",
+    "snakecase-keys": "^1.1.1",
+    "when": "^3.1.0"
+  },
+  "main": "lib/x-api.js",
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "chai": "~1.8.0",
+    "chai-as-promised": "~4.0.0"
+  }
+}

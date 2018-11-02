@@ -1,0 +1,2 @@
+const sig = 'H9kZs1DJGLi1NWnLQZo7t3Er5Ecb6T4LJWHpXc5+jiauJSn2EYHDvfX1gwhE+2t8w+ECp9pbkRrtZk9RZLRIY4iZZ6kA61757ljimPMKQJrAUY7Gh592x/xhYEHAuAmS01F8j2L/uKLqmWzRCtA5wBOajvtnb9dzz3EVfVb4G6o='
+console.log(new Buffer(sig, 'base64').toString())
