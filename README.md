@@ -16,7 +16,7 @@ nodejs 版本 4 及以上
 
 ### 初始化
 ``` js
-var mofan = require('mofan-cloud-api')('YOUR-KEY');
+var mofan = require('mofan-api')('YOUR-KEY');
 ```
 
 ### 设置请求签名密钥
